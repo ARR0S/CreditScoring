@@ -27,13 +27,13 @@
 Чтобы настроить и запустить проект локально, выполните следующие действия:
 1. Клонируйте репозиторий:
 
-    ``bash
+    ```bash
     git clone https://github.com/ARR0S/CreditScoring.git
     ```
 
 2. Перейдите в каталог проекта:
 
-    ``bash
+    ```bash
     cd CreditScoring
     ```
 
